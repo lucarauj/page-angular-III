@@ -17,8 +17,9 @@ h2 {
     font-weight: bold;
 }
 
-.example-card {
+.card {
     max-width: 400px;
+    background-color: rgb(32, 94, 226);
 }
   
 .example-header-image {
@@ -39,11 +40,14 @@ mat-card-header {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 10px;
 }
 
 mat-card-actions {
+    background-color: rgb(56, 53, 223);
     display: flex;
     justify-content: space-around;
+    margin-top: 10px;
 }
 
 mat-card-actions p {
@@ -54,6 +58,14 @@ mat-card-actions p {
 mat-card img {
     height: 300px;
     width: 300px;
+}
+
+mat-card-content {
+    text-align: center;
+}
+
+mat-card-title {
+    font-weight: bold;
 }
 
 
