@@ -10,6 +10,7 @@
 - ng g c menu
 - ng g c rodape
 - ng g c detalhes
+- ng g s filme
 
 <br>
 
