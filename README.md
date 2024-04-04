@@ -1,27 +1,20 @@
-# PageApp
+<h1 align="center">Projeto Angular</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+## ✅ Estruturando o projeto
 
-## Development server
+- ng new page-app --no-standalone
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Layout
 
-## Build
+<p align="left"><img width="800px" src="" /></p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<br>
 
-## Running unit tests
+# 👨🏼‍🎓 Autor
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Lucas Araujo
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
