@@ -44,15 +44,10 @@ mat-card-header {
 }
 
 mat-card-actions {
-    background-color: rgb(56, 53, 223);
+    background-color: rgb(31, 27, 236);
     display: flex;
     justify-content: space-around;
     margin-top: 10px;
-}
-
-mat-card-actions p {
-    color: red;
-    font-size: 30px;
 }
 
 mat-card img {

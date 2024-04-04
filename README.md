@@ -3,7 +3,13 @@
 ## ✅ Estruturando o projeto
 
 - ng new page-app --no-standalone
-
+- ng add @angular/material
+- npm install bootstrap
+- ng g c inicio
+- ng g c login
+- ng g c menu
+- ng g c rodape
+- ng g c detalhes
 
 <br>
 
