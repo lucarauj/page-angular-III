@@ -5,3 +5,12 @@ footer {
     height: 100px;
     padding-top: 30px;
 }
+
+a {
+    color: rgb(245, 246, 247);   
+    font-weight: lighter;
+}
+
+.hidden-footer {
+    transform: translateY(100%);
+  }
