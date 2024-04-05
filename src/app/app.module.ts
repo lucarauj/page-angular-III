@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule, provideClientHydration } from '@angular/platform-browser';
+import { HttpClientModule } from '@angular/common/http';
 
 import {MatButtonModule} from '@angular/material/button';
 import {MatCardModule} from '@angular/material/card';
@@ -31,6 +32,7 @@ import { DetalhesComponent } from './detalhes/detalhes.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    HttpClientModule,
     MatButtonModule,
     MatCardModule,
     MatFormFieldModule,

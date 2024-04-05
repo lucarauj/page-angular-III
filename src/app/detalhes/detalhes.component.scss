@@ -1,0 +1,34 @@
+
+.filme-details {
+    text-align: center;
+    margin: 20px auto;
+    padding: 0 20px; 
+    max-width: 800px; 
+  }
+  
+  .filme-poster {
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+ 
+  .movie-details {
+    margin-top: 20px;
+  }
+  
+
+  .movie-details p {
+    margin-bottom: 10px;
+    font-size: 15px;
+  }
+  
+
+  .loading-message {
+    font-style: italic;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  

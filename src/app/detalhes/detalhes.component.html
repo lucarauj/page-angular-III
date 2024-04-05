@@ -1,2 +1,19 @@
+<div class="filme-details" *ngIf="detalhesFilme">
+  <h1>{{ detalhesFilme.title }}</h1>
+  <img class="filme-poster" [src]="'https://image.tmdb.org/t/p/w300' + detalhesFilme.poster_path" alt="Capa do Filme">
+  <div class="movie-details">
+      <p><strong>Descrição:</strong> {{ detalhesFilme.overview }}</p>
+      <p><strong>Data de Lançamento:</strong> {{ detalhesFilme.release_date }}</p>
+      <p><strong>Nota Média:</strong> {{ detalhesFilme.vote_average }}</p>
+      <p><strong>Quantidade de Votos:</strong> {{ detalhesFilme.vote_count }}</p>
+      <p><strong>Popularidade:</strong> {{ detalhesFilme.popularity }}</p>
+  </div>
+</div>
 
+<div class="filme-details" *ngIf="!detalhesFilme">
+  <p class="loading-message">Carregando detalhes do filme...</p>
+</div>
 
+<div class="filme-details" *ngIf="detalhesFilme === null">
+  <p class="error-message">Não foi possível carregar os detalhes do filme.</p>
+</div>
