@@ -23,7 +23,7 @@
 
 ```
 email: eve.holt@reqres.in
-password: "cityslicka
+password: cityslicka
 ```
 
 <br>
@@ -38,13 +38,17 @@ password: "cityslicka
 
 <p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout2.png" /></p>
 
-### Login
+### Detalhes
 
 <p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout3.png" /></p>
 
-### Detalhes
+### Login
 
 <p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout4.png" /></p>
+
+### Usuário logado
+
+<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout5.png" /></p>
 
 <br>
 
