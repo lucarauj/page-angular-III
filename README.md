@@ -17,6 +17,17 @@
 
 <br>
 
+## Dados para teste de login
+
+- https://reqres.in/
+
+```
+email: eve.holt@reqres.in
+password: "cityslicka
+```
+
+<br>
+
 ## Layout
 
 ### Início
