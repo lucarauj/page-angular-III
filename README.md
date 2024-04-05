@@ -16,7 +16,21 @@
 
 ## Layout
 
-<p align="left"><img width="800px" src="" /></p>
+### Início
+
+<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout1.png" /></p>
+
+### Início
+
+<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout2.png" /></p>
+
+### Login
+
+<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout3.png" /></p>
+
+### Detalhes
+
+<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout4.png" /></p>
 
 <br>
 
