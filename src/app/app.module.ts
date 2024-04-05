@@ -19,6 +19,7 @@ import { LoginComponent } from './login/login.component';
 import { MenuComponent } from './menu/menu.component';
 import { RodapeComponent } from './rodape/rodape.component';
 import { DetalhesComponent } from './detalhes/detalhes.component';
+import { UserComponent } from './user/user.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import { DetalhesComponent } from './detalhes/detalhes.component';
     LoginComponent,
     MenuComponent,
     RodapeComponent,
-    DetalhesComponent
+    DetalhesComponent,
+    UserComponent
   ],
   imports: [
     BrowserModule,

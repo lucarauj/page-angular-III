@@ -11,6 +11,9 @@
 - ng g c rodape
 - ng g c detalhes
 - ng g s filme
+- ng g c user
+- ng g s login
+- ng g s auth-guard
 
 <br>
 
